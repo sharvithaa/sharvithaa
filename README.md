@@ -1,8 +1,11 @@
 <h1 align="center">Hi! 👋 I'm Sharvithaa</h1>
 <h3 align="center">An aspiring Front-End Developer</h3>
 
+<p><img src="https://komarev.com/ghpvc/?username=sharvithaa"></p>
+
 - 🔭 I’m currently working on <b>React.js</b><br>
-- 🌱 I’m currently learning <b>UI/UX Designing</b>
+- 🌱 I’m currently learning <b>UI/UX Designing</b><br>
+- 💬 Ask me about <b>Data structures,HTML,CSS,Python</b>
 
 
 <h2 style="font-size:32px; font-weight: bold;">🌐 Connect with me:</h2>
