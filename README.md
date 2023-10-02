@@ -39,6 +39,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharvithaa" />
   </a>
 </p>
+
+<a> 
+    <a href="#"><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sharvithaa&show_icons=true&count_private=true" height="192px" width="49.5%"/></a>
+  <a href="#"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sharvithaa&langs_count=8&layout=compact" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
