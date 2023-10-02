@@ -34,7 +34,11 @@
  ![Git](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)
  ![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
- <img src="(https://streak-stats.demolab.com?user=sharvithaa)](https://git.io/streak-stats)"/>
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharvithaa" />
+  </a>
+</p>
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
