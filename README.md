@@ -1,8 +1,8 @@
 <h1 align="center">Hi! 👋 I'm Sharvithaa</h1>
-<h3 align="center">An aspiring MERN Stack Developer and ML Enthusiat</h3>
+<h3 align="center"> MERN Stack Developer and ML Enthusiat</h3>
 
 - 🔭 I’m currently working on <b>MERN Stack</b><br>
-- 🌱 I’m currently learning <b>UI/UX Designing</b><br>
+- 🌱 I’m currently learning <b>MEAN Stack and Devops</b><br>
 - 💬 Ask me about <b>Data structures,HTML,CSS,React,Java,Python,Machine Learning</b>
 - 📫 How to reach me **sharvithaad@gmail.com**
 - 📄 Know about my experiences in [**my resume**](https://drive.google.com/file/d/1MABuQcJbIAZbmUhRcRyCW2mMGpjPc7Mc/view?usp=sharing)
